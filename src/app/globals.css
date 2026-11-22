@@ -1,5 +1,24 @@
 @import "tailwindcss";
 
+.font-display {
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.font-sans {
+  font-family:
+    "Plus Jakarta Sans",
+    -apple-system,
+    BlinkMacSystemFont,
+    sans-serif;
+}
+
+.tech-grid {
+  background-image:
+    linear-gradient(to right, rgba(186, 248, 40, 0.045) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(186, 248, 40, 0.045) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
