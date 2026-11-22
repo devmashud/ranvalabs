@@ -227,7 +227,7 @@ export default function RanvaShell({ children }) {
           </div>
 
           <div className="flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-500">
-            <p>© {new Date().getFullYear()} Ranva Labs. All rights reserved.</p>
+            <p>© 2026 Ranva Labs. All rights reserved.</p>
             <p>Engineered in Bangladesh for Global & Local Businesses.</p>
           </div>
         </div>
